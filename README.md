@@ -1,4 +1,4 @@
 # Typescript-Command-Handler
 
 # TODO
-- Cooldown
+- ~~Cooldown~~ Done
