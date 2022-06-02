@@ -7,7 +7,7 @@ const {
 
 export default {
   category: 'Help',
-  description: 'Get a list of all Status+ commands!',
+  description: 'Get a list of all commands!',
   slash: true,
   testOnly: false,
   cooldown: '5s',
